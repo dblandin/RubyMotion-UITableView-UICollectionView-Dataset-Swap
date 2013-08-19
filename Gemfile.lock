@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    motion-layout (0.0.1)
+    sugarcube (1.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  motion-layout
+  sugarcube
